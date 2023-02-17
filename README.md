@@ -15,6 +15,10 @@ Projeto com objetivo de criar uma pagina similar a do Mercado livre, consumindo 
 ### Botão para limpar o carrinho de compras
 ### Tela de carregando
 
-Tecnologias usadas no projeto: React, CSS, bootstrap e Context Api.
+## Tecnologias usadas no projeto: 
+### React
+### CSS
+### bootstrap 
+### Context Api
 
-Documentação da API do ML: https://developers.mercadolivre.com.br/pt_br/itens-e-buscas
+## Documentação da API do ML: https://developers.mercadolivre.com.br/pt_br/itens-e-buscas
